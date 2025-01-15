@@ -1,3 +1,3 @@
 ## Screenshots
-![Alt text](Bank Dashboard_page-0001.jpg)
+![Screenshot](Bank Dashboard_page-0001.jpg)
 
