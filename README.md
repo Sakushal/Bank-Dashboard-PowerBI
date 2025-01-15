@@ -14,7 +14,10 @@ This project is a Power BI dashboard designed for visualizing Bank data. The das
 
 ## Data Source
 
-- **CSV Files**: The project uses a CSV file as data source. Ensure the file is located in the correct directory or adjust the file path as necessary.
+- **CSV Files**
+- The project uses a CSV file as data source.
+- You can download the csv file from the given link: https://www.superdatascience.com/pages/powerbi 
+- Ensure the file is located in the correct directory or adjust the file path as necessary.
 
 ## Steps followed.
 
